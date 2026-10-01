@@ -1,6 +1,6 @@
 # Blot Annotator — installers
 
-Built installers for Blot Annotator, a desktop tool for arranging and annotating western blot and DNA gel images into publication-ready figures. The source code is private; this repository only hosts the downloads. Get the latest build from the [Releases page](https://github.com/MichaelGCM/blot-annotator-releases/releases).
+Built installers for Blot Annotator, a desktop tool for arranging and annotating western blot and DNA gel images into publication-ready figures.  Get the latest build from the [Releases page](https://github.com/MichaelGCM/blot-annotator-releases/releases).
 
 ## Installing on macOS
 
